@@ -1,4 +1,4 @@
-# TeenCongress
+# Teen Congress
 Teen Congress - A channel and amplifier for young voices and minds
 
 TODO: flesh this out  
