@@ -8,7 +8,11 @@ TODO: flesh this out
 itmt: [Blog on Teen Congress](https://supersammetry.com/20200616-TeenCongress/)
 
 ## Where This Is Happening
+* Issues:
+  * https://github.com/ProgramForTheFuture/TeenCongressOrg/issues
+* Rules of Engagemnet page on Wiki 
+  * https://github.com/ProgramForTheFuture/TeenCongressOrg/wiki/Rules-of-Engagement:-Adult-Assistants
 * Facebook Messenger: 
   * https://www.facebook.com/messages/t/3085729948161684
 * Discord Adult Assistants Group: 
-  * https://discord.gg/Tv279S
+  * https://discord.gg/J72Jhm
