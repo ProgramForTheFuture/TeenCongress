@@ -10,7 +10,7 @@ itmt: [Blog on Teen Congress](https://supersammetry.com/20200616-TeenCongress/)
 ## Where This Is Happening
 * Issues:
   * https://github.com/ProgramForTheFuture/TeenCongressOrg/issues
-* Rules of Engagemnet page on Wiki 
+* Rules of Engagement page on Wiki 
   * https://github.com/ProgramForTheFuture/TeenCongressOrg/wiki/Rules-of-Engagement:-Adult-Assistants
 * Facebook Messenger: 
   * https://www.facebook.com/messages/t/3085729948161684
