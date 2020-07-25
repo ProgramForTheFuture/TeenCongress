@@ -1,4 +1,7 @@
 # Teen Congress - Organizing and Planning Repository
+
+[![Join the chat at https://gitter.im/TeenCongress/community](https://badges.gitter.im/TeenCongress/community.svg)](https://gitter.im/TeenCongress/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Teen Congress - A channel and amplifier for young voices and minds  
 This repo is for core organizers (mostly teens!) to design the structure, engagement experience, etc.
 
